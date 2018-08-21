@@ -1,0 +1,23 @@
+.menu {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+	background: #fff;
+
+	a {
+		color: #3a3a3a;
+		padding: 15px 0px;
+
+		i {
+			display: inline-block;
+		}
+	}
+
+	a:hover {
+		color: #fff;
+		background-color: #3a3a3a;
+	}
+}

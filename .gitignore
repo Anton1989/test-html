@@ -1,0 +1,15 @@
+node_modules
+src/backend/static/bundle
+src/backend/static/images
+src/backend/static/files
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+package-lock.json
+uploads
+.idea
+.vscode
+.sass-cache
+stats.json
+*.code-workspace
+*.iml
